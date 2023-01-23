@@ -26,3 +26,5 @@
         <img align="center" alt="Abilio-Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </div>
     
+![Snake animation](https://github.com/abilioferreira/blob/output/github-contribution-grid-snake.svg)
+    
