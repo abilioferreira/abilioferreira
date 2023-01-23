@@ -25,6 +25,6 @@
         <a href="https://www.linkedin.com/in/abílio-neto-07b128227/" target="_blank">
         <img align="center" alt="Abilio-Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </div>
-<!--     
-![Snake animation](https://github.com/abilioferreira/blob/output/github-contribution-grid-snake.svg) -->
+   
+![snake gif](https://github.com/abilioferreira/abilioferreira/blob/output/github-contribution-grid-snake.svg) 
     
